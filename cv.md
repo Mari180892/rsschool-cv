@@ -27,3 +27,11 @@ September 2015 - November 2018\
 * regulation of conflict situations
 * advising clients
 * sale and purchase of goods
+
+#### Education
+* Complete secondary education at the physics and mathematics Lyceum.
+* Incomplete higher education in the specialty Manager
+* "Front-end/Javascript" cource from the Rolling Scopes School **(in process)**
+
+#### English
+* Elementary (A1-A2)
