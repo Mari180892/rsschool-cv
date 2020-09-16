@@ -13,3 +13,17 @@ I have 10 years of experience in  the sales area and in managing a team of up to
 * CSS (novice)
 * JavaScript (novice)
 * Git (novice)
+
+#### Work experience
+
+September 2015 - November 2018\
+*"Centr Skupki"*\
+**Position**: senior administrator\
+**Responsibilities**:
+* monitoring the work of sellers
+* bookkeeping (1C)
+* scheduling of employees
+* maintaining profiles in social networks
+* regulation of conflict situations
+* advising clients
+* sale and purchase of goods
