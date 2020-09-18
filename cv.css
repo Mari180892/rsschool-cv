@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section + section {
+    margin-top: 50px;
+}
+
+.section-title {
+    margin-bottom: 15px;
+}
+
+.experience p {
+    margin: 3px 0px;
+}
+
+.experience ul {
+    margin-top: 8px;
+}
+
+.image {
+    height: 200px;
+    margin-left: 150px;
+
+}
+
+.text {
+    float: left;
+}
